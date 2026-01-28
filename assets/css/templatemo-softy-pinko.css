@@ -1456,7 +1456,7 @@ contact
 #contact-us {
   padding: 100px 0px;
   background: #2C2C2C;
-  margin-bottom: 80px;
+  margin-bottom: -10px;
   margin-top: -10px;
 }
 
@@ -1501,6 +1501,7 @@ contact
   resize: none;
   padding: 20px;
 }
+
 
 /* 
 ---------------------------------------------
