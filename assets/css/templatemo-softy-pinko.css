@@ -1602,7 +1602,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-image: linear-gradient(135deg, #a759d1 0%, #8261ee 100%);
+  background-image: linear-gradient(135deg, #3b3448 0%, #2C2C2C 100%);
   left: 0;
   right: 0;
   top: 0;
@@ -1625,7 +1625,7 @@ preloader
 }
 
 #preloader .jumper > div {
-  background-color: #fff;
+  background-color: #a084a0;
   width: 10px;
   height: 10px;
   border-radius: 100%;
