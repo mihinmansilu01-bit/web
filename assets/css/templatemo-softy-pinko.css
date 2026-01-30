@@ -326,7 +326,8 @@ a.main-button-slider {
 }
 
 a.main-button-slider:hover {
-  background-color: #8261ee;
+  background-color: #06e0f8;
+  color: #ffffff;
 }
 
 a.main-button {
@@ -353,7 +354,7 @@ a.main-button {
 a.main-button:hover {
   background-color: 	#06e0f8;
   color: #ffffff;
-  
+
 }
 
 button.main-button {
