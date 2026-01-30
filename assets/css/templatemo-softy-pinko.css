@@ -1729,15 +1729,15 @@ body {
     padding: 1.8rem 2.2rem;
     border-radius: 24px;
     box-shadow: 
-        18px 18px 36px rgba(185, 1, 209, 0.349),
-        -12px -12px 24px rgba(185, 1, 209, 0.349),
+        18px 18px 36px 	#113547,
+        -12px -12px 24px 	#113547,
         inset 4px 4px 8px rgba(255, 0, 0, 0.06);
     margin-bottom: 1rem;
     position: relative;
     overflow: hidden;
     border: 1px solid rgba(255, 255, 255, 0.03);
     transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-    color: #5e5e5ec4;
+    color: #277ca5;
 }
 
 .counter-num::after {
@@ -1753,10 +1753,11 @@ body {
 
 .counter-num:hover {
     box-shadow: 
-        25px 25px 50px rgba(255, 0, 157, 0.712),
-        -18px -18px 36px rgba(255, 0, 157, 0.712),
+        25px 25px 50px 		#64c2ec,
+        -18px -18px 36px 		#64c2ec,
         inset 6px 6px 12px rgba(255, 255, 255, 0.09);
     transform: translateY(-8px) scale(1.02);
+    color: #b8f5ff;
 }
 
 .counter-num:hover::after {
