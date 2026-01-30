@@ -1225,7 +1225,7 @@ pricing
 }
 
 .pricing-item {
-  background: #3b3448;
+  background: #2C2C2C;
   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.1);
   border-radius: 20px;
   margin-bottom: 30px;
@@ -1455,7 +1455,7 @@ contact
 
 #contact-us {
   padding: 100px 0px;
-  background: #2C2C2C;
+  background: #3b3448;
   margin-bottom: -10px;
   margin-top: -10px;
 }
@@ -1687,7 +1687,7 @@ preloader
 
 body {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    background: #2C2C2C;
+    background: #3b3448;
     color: #e0e0e0;
     line-height: 1.6;
 }
@@ -1706,8 +1706,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: radial-gradient(circle at 20% 80%, rgba(68, 68, 70, 0.1) 0%, transparent 50%),
-                radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.05) 0%, transparent 50%);
+    background: #3b3448;
     pointer-events: none;
 }
 
